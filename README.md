@@ -18,6 +18,7 @@
 **GTM & AI Automation Engineer · n8n & Clay Builder · AI-Powered GTM Systems**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-visalnkr.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://visalnkr.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-visalnkr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visalnkr)
 
 <br>
 
